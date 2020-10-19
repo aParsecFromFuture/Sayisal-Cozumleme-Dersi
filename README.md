@@ -1,6 +1,6 @@
 # Sayisal-Cozumleme-Dersi
 Sayısal çözümleme dersi için tuttuğum notlar ve yazdığım programlar
 
-### Cikti
+### Output
 
 ![Terminal Screen](terminal.png)
